@@ -3,8 +3,8 @@
 *.war
 *.ear
 .settings/
-/.classpath
-/.project
+.classpath
+.project
 /bin
 .DS_Store
 Copy of userLibrary.dic
